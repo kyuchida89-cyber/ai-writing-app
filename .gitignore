@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+venv/
+.venv/
+*.log
+
+# Claude Code workspace artifacts
+.claude/
+.agents/
+skills-lock.json
